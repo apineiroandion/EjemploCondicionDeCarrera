@@ -12,3 +12,5 @@ Un recurso compartido es un recurso que puede ser accedido por varios procesos a
 
 En este ejemplo se muestra como cuatro hilos inentan
 acceder a una variable compartida al mismo tiempo.
+Mientras que la variable contador valga menos de 400  los hilos
+iran sumando 1 a la variable contador.
